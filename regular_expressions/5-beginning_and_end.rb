@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-puts ARGS[0](\Ah.n\z).join
+puts ARGS[0].scan(\Ah.n\z).join
